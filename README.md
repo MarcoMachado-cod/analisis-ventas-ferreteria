@@ -206,7 +206,7 @@ A partir del análisis realizado con SQL y Power BI, se identificaron los siguie
 
 El siguiente dashboard permite visualizar los principales indicadores y analizar el comportamiento de las ventas mediante filtros interactivos.
 
-![Dashboard de ventas](ferreteriadashboard.png)
+![Dashboard de ventas](images/dashboard_ventas.png)
 
 ## Autor
 Marco Machado
