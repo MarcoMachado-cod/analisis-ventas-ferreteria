@@ -1,6 +1,3 @@
-# analisis-ventas-ferreteria
-Análisis de ventas utilizando Python, SQL y Power BI
-
 # Análisis de ventas de una ferretería
 
 ## Descripción del proyecto
